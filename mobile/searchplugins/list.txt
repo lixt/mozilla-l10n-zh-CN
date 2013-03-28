@@ -1,3 +1,4 @@
 baidu-zh-CN
+baidu-zh-CN-tablet
 google
 wikipedia-zh-CN
