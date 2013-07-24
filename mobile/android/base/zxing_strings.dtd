@@ -1,0 +1,77 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  scan_result "扫描结果">
+<!ENTITY  bookmark_picker_name "书签">
+<!ENTITY  button_add_calendar "添加事件至日历">
+<!ENTITY  button_add_contact "添加联系人">
+<!ENTITY  button_book_search "打开图书搜索">
+<!ENTITY  button_custom_product_search "自定义搜索">
+<!ENTITY  button_dial "拨号">
+<!ENTITY  button_email "发送email">
+<!ENTITY  button_get_directions "获取地址">
+<!ENTITY  button_google_shopper "Google 购物">
+<!ENTITY  button_mms "发送彩信">
+<!ENTITY  button_open_browser "打开浏览器">
+<!ENTITY  button_product_search "打开产品搜索">
+<!ENTITY  button_search_book_contents "搜索图书内容">
+<!ENTITY  button_share_app "共享应用">
+<!ENTITY  button_share_bookmark "分享书签">
+<!ENTITY  button_share_by_email "通过email分享">
+<!ENTITY  button_share_by_sms "通过短信分享">
+<!ENTITY  button_share_clipboard "分享剪切板">
+<!ENTITY  button_share_contact "分享联系人">
+<!ENTITY  button_show_map "显示地图">
+<!ENTITY  button_sms "发送短信">
+<!ENTITY  button_web_search "网页搜索">
+<!ENTITY  button_wifi "连接到网络">
+<!ENTITY  contents_contact "联系人信息">
+<!ENTITY  contents_email "Email地址">
+<!ENTITY  contents_location "地理坐标">
+<!ENTITY  contents_phone "电话号码">
+<!ENTITY  contents_sms "短信地址">
+<!ENTITY  contents_text "纯文本">
+<!ENTITY  msg_bulk_mode_scanned "批量扫描：找到条码，已保存">
+<!ENTITY  msg_camera_framework_bug "抱歉，Android相机出现问题。您可能需要重启设备。">
+<!ENTITY  msg_default_format "格式">
+<!ENTITY  msg_default_meta "元数据">
+<!ENTITY  msg_default_mms_subject "Hi">
+<!ENTITY  msg_default_status "请将条码置于取景框内扫描。  ">
+<!ENTITY  msg_default_time "时间">
+<!ENTITY  msg_default_type "类型">
+<!ENTITY  msg_encode_contents_failed "无法根据已有数据生成条码。   ">
+<!ENTITY  msg_google_books "谷歌图书">
+<!ENTITY  msg_google_product "谷歌购物">
+<!ENTITY  msg_google_shopper_missing "Google 购物未安装">
+<!ENTITY  msg_install_google_shopper "Google 购物是一款将条码扫描和商品比价相结合的应用，谷歌购物不使用浏览器，您想尝试吗？">
+<!ENTITY  msg_intent_failed "抱歉，无法打开所需软件。 条码内容可能无效。">
+<!ENTITY  msg_redirect "重定向">
+<!ENTITY  msg_sbc_book_not_searchable "抱歉，无法找到此图书。">
+<!ENTITY  msg_sbc_failed "抱歉，搜索时遇到错误。">
+<!ENTITY  msg_sbc_no_page_returned "无页面返回">
+<!ENTITY  msg_sbc_page "页面">
+<!ENTITY  msg_sbc_results "结果">
+<!ENTITY  msg_sbc_searching_book "搜索图书…">
+<!ENTITY  msg_sbc_snippet_unavailable "摘录不可用">
+<!ENTITY  msg_sbc_unknown_page "未知页面">
+<!ENTITY  msg_share_explanation "您可以通过在自己的手机上显示条码，并使用其它手机扫描此条码的方式进行分享">
+<!ENTITY  msg_share_subject_line "这是我所扫描条码的内容">
+<!ENTITY  msg_share_text "或键入一些文字">
+<!ENTITY  msg_sure "你肯定吗？">
+<!ENTITY  msg_unmount_usb "抱歉，SD卡不可访问。">
+<!ENTITY  result_address_book "找到联系人信息">
+<!ENTITY  result_calendar "找到日历事件">
+<!ENTITY  result_email_address "找到email地址">
+<!ENTITY  result_geo "找到地理坐标">
+<!ENTITY  result_isbn "找到图书">
+<!ENTITY  result_product "找到产品">
+<!ENTITY  result_sms "找到短信地址">
+<!ENTITY  result_tel "找到电话号码">
+<!ENTITY  result_text "找到纯文本">
+<!ENTITY  result_uri "找到URL">
+<!ENTITY  result_wifi "发现网络配置">
+<!ENTITY  sbc_name "Google图书搜索">
+<!ENTITY  wifi_changing_network "请求连接到网络\u2026">
+<!ENTITY  wifi_ssid_label "网络SSID">
+<!ENTITY  wifi_type_label "类型">
