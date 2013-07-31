@@ -134,6 +134,7 @@ size. -->
 <!ENTITY save_as_pdf "另存为 PDF">
 <!ENTITY find_in_page "在页面中查找">
 <!ENTITY desktop_mode "要求桌面版网站">
+<!ENTITY qr_code "二维码扫描">
 <!ENTITY tools "工具">
 <!ENTITY new_tab "新建标签页">
 <!ENTITY new_private_tab "新建隐私浏览标签页">
