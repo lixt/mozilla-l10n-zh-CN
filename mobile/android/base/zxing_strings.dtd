@@ -75,3 +75,4 @@
 <!ENTITY  wifi_changing_network "请求连接到网络\u2026">
 <!ENTITY  wifi_ssid_label "网络SSID">
 <!ENTITY  wifi_type_label "类型">
+<!ENTITY  content_copied_to_clipboard "扫描结果已复制到剪切板">
